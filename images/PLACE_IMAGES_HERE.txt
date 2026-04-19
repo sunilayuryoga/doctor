@@ -1,0 +1,19 @@
+Drop images into this folder with these exact filenames for the website to use them:
+
+REQUIRED IMAGES:
+- doctor.jpg        → Dr. Sunil Garge profile photo (square preferred, 500x500+)
+- clinic.jpg        → Clinic / practice location photo (wide, 1200x600+)
+
+OPTIONAL SECTION IMAGES:
+- naturopathy.jpg   → Naturopathy / natural healing visual
+- ayurveda.jpg      → Ayurveda herbs / medicine visual
+- herbal.jpg        → Herbal remedies / plants
+- wellness.jpg      → Wellness / holistic treatment visual
+
+LOGO (optional):
+- logo.png          → Small logo/symbol for header (transparent PNG recommended)
+
+If an image file is missing, the website will automatically show a placeholder
+icon in its place. You can add images later without touching the HTML.
+
+File formats supported: .jpg, .jpeg, .png, .webp
